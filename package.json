@@ -1,0 +1,12 @@
+{
+  "name": "files-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compose": "docker-compose up --build -d"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
